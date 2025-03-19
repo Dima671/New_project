@@ -1,0 +1,6 @@
+echo *Введите  цифру*
+read number_one
+echo *Введите еще одну цифру*
+read number_two
+echo $(($number_one + $number_two))
+
