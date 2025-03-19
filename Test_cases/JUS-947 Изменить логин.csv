@@ -1,0 +1,11 @@
+﻿No,Issue Key,Summary,Assignee,Priority,Reporter,Data,Action,Expected result
+1,JUS-947,"Перейти в раздел ""Изменить логин""",,Medium,User2,,,
+1,,,,,,"<p><span style=""background-color:rgb(34, 39, 43)"">БСБП - </span><a href=""https://idemo.bspb.ru/"" target=""_blank"" style=""background-color:rgb(34, 39, 43);color:var(--ds-link, #0C66E4)"">https://idemo.bspb.ru/</a></p>","<p><span style=""background-color:rgb(34, 39, 43)"">Перейти на сайт </span></p>","<p><span style=""background-color:rgb(34, 39, 43)"">Открывает экран с полями для ввода логина и пароля</span></p>"
+1,,,,,,,"<p><span style=""background-color:rgb(34, 39, 43)"">Нажать ""Физическое лицо""</span></p>","<p><span style=""background-color:rgb(34, 39, 43)"">Кнопка ""физическое лицо"" загорается подсветкой</span></p>"
+1,,,,,,"<p><span style=""background-color:rgb(34, 39, 43)"">Логин ""demo""</span></p>","<p><span style=""background-color:rgb(34, 39, 43)"">Внести данные в  раздел логин </span></p>","<p><span style=""background-color:rgb(34, 39, 43)"">Информация отображается в строке </span></p>"
+1,,,,,,"<p><span style=""background-color:rgb(34, 39, 43)"">Пароль ""1111""</span></p>","<p><span style=""background-color:rgb(34, 39, 43)"">Внести данные в раздел пароль</span></p>","<p><span style=""background-color:rgb(34, 39, 43)"">Данные отображаются в строке</span></p>"
+1,,,,,,,"<p><span style=""background-color:rgba(161, 189, 217, 0.08)"">Нажать в окно ""войти""</span></p>","<p><span style=""background-color:rgb(34, 39, 43)"">Переходит на другую страницу  для подтверждения входа и просит код из смс</span></p>"
+1,,,,,,"<p><span style=""background-color:rgb(34, 39, 43)"">0000</span></p>","<p><span style=""background-color:rgba(161, 189, 217, 0.08)"">Ввести смс код в поле для ""кода""</span></p>","<p><span style=""background-color:rgb(34, 39, 43)"">данные отображаются в разделе</span></p>"
+1,,,,,,,"<p><span style=""background-color:rgb(34, 39, 43)"">Нажать на окно ""Подтвердить""</span></p>","<p><span style=""background-color:rgb(34, 39, 43)"">Переходит на главную страницу сайта </span></p>"
+1,,,,,,,"<p>Нажать на кнопку ""Настройки""</p>",<p>Открывается страница с контентом</p>
+1,,,,,,,"<p>Нажать на вкладку ""Изменить логин"" </p>","<p>Открывается окно с полями для ввода ""Новый логин"" и ""Текущий пароль""</p>"
